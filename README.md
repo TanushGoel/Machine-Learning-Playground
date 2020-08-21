@@ -1,6 +1,12 @@
 # Machine-Learning-Playground
 A collection of ML implementations
 
+## Facial Keypoint Detection
+CNN model trained to find facial keypoints within an image.
+
+## Image Captioning
+Encoder-Decoder attention model that generates captions from images - trained on COCO dataset.
+
 ## Chest_XRays.ipynb
 Detects the presence of pneumonia in a given chest x-ray image. Binary classification between "normal" and "pneumonia" classes.
 
